@@ -1,0 +1,4 @@
+interface:
+  display_name: "David Perell · 论证与表达修改"
+  short_description: "Build a 论证与表达修改 using expert methodology"
+  default_prompt: "Use $dps-editing to build a practical 论证与表达修改 for my situation."

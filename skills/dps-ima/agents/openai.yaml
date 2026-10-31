@@ -1,0 +1,4 @@
+interface:
+  display_name: "David Perell IMA Bridge"
+  short_description: "Retrieve IMA evidence for expert workflows"
+  default_prompt: "Use $dps-ima to retrieve IMA evidence and continue with the right David Perell workflow."

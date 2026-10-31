@@ -1,0 +1,4 @@
+interface:
+  display_name: "David Perell · 持续发表与读者反馈"
+  short_description: "Build a 持续发表与读者反馈 using expert methodology"
+  default_prompt: "Use $dps-publishing to build a practical 持续发表与读者反馈 for my situation."

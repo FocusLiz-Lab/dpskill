@@ -1,0 +1,12 @@
+{
+  "after": 1718,
+  "unique_sources": 659,
+  "extraction": "ckw-initial-source-v1",
+  "files": [
+    {
+      "file": "atoms.jsonl",
+      "bytes": 1947928,
+      "sha256": "86a729760298a9f8c49b7b3ffe4081718a49001b96af0501d40e27e24d2db0a7"
+    }
+  ]
+}

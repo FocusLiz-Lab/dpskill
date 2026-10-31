@@ -1,0 +1,4 @@
+interface:
+  display_name: "David Perell工具箱"
+  short_description: "David Perell expert workflow router"
+  default_prompt: "Use $dps to route and solve my 写作、思考与持续发表 problem."

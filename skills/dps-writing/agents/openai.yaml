@@ -1,0 +1,4 @@
+interface:
+  display_name: "David Perell · 文章结构与初稿"
+  short_description: "Build a 文章结构与初稿 using expert methodology"
+  default_prompt: "Use $dps-writing to build a practical 文章结构与初稿 for my situation."

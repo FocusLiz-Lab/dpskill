@@ -1,0 +1,4 @@
+interface:
+  display_name: "David Perell · 观察素材与选题"
+  short_description: "Build a 观察素材与选题 using expert methodology"
+  default_prompt: "Use $dps-ideas to build a practical 观察素材与选题 for my situation."

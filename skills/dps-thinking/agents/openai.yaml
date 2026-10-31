@@ -1,0 +1,4 @@
+interface:
+  display_name: "David Perell · 通过写作澄清观点"
+  short_description: "Build a 通过写作澄清观点 using expert methodology"
+  default_prompt: "Use $dps-thinking to build a practical 通过写作澄清观点 for my situation."

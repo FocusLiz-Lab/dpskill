@@ -1,0 +1,246 @@
+{
+  "prefix": "dps",
+  "repository": "dpskill",
+  "creator": "DavidPerellChannel",
+  "source_files": 728,
+  "unique_sources": 659,
+  "modules": {
+    "learning-map": {
+      "matching_sources": 476,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 访谈案例与人生思考/200803 Self Directed Learning Explained.md",
+          "title": "200803 Self Directed Learning Explained",
+          "url": "https://www.youtube.com/watch?v=AU8PnTlRaIc",
+          "date": "2020-08-03",
+          "sha256": "4b4dd42dbc948abcf586b9682a1fd6f4f40a68a0660a5e62abdd58ddde9aeded",
+          "chars": 41361,
+          "excerpt": "In this week’s episode of Show & Tell, Ana and David talk about self-directed learning with a focus on reading and math."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 访谈案例与人生思考/200509 A Creative Learning Experience.md",
+          "title": "200509 A Creative Learning Experience",
+          "url": "https://www.youtube.com/watch?v=uUlSRTu1FG8",
+          "date": "2020-05-09",
+          "sha256": "844855e656bfd12d77ef2ae1171cc3a66b160b43bb98cadcb3e6c35f2a3fda55",
+          "chars": 41021,
+          "excerpt": "Um and you know when when I was thinking well what can we do for this first creative experience that we want to do with the kids I started really thinking about three things you know the things that we know about how kids don't learn the things that we know about how kids do learn which are very simple we don't have to go into scientific terms or anything and then what what really is the role of an educator um in this whole you know experience as a facilitator um we know that kids you know won't learn and this is for adults too unless they really care about what it is that they're learning."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录04 访谈案例与人生思考/200720 Online Learning Gone Right.md",
+          "title": "200720 Online Learning Gone Right",
+          "url": "https://www.youtube.com/watch?v=LS5tpyFodHM",
+          "date": "2020-07-20",
+          "sha256": "f5aaff59ed64e00579726bddf7eeaf0fe1f7d95bfeb2e03f2a7d23bfd84b672f",
+          "chars": 38617,
+          "excerpt": "In this week's episode of Show & Tell, Ana and David address online learning and remote learning."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "roadmap": {
+      "matching_sources": 388,
+      "evidence": [
+        {
+          "source_path": "articles/❸ 专栏01 Essays｜正式随笔/191227 Annual Review- 2019.md",
+          "title": "191227 Annual Review- 2019",
+          "url": "https://twitter.com/david_perell/status/1062416084693893123?s=21",
+          "date": "2019-12-27",
+          "sha256": "15dc28492b3ab399910b07d6f4ea42a66ced2e609b10238486f9fc51f8450955",
+          "chars": 16912,
+          "excerpt": "This Annual Review is focused on four sections: (1) a review of my 2019 goals, (2) things to celebrate, , (3) things to improve, and (4) goals for 2020."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 写作方法与系统/240911 79 Mins of Storytelling Strategy Better Than Your English Classes – Nick Bilton.md",
+          "title": "240911 79 Mins of Storytelling Strategy Better Than Your English Classes – Nick Bilton",
+          "url": "https://www.youtube.com/watch?v=H6oJ4yZJfbA",
+          "date": "2024-09-11",
+          "sha256": "b288f7692289a465f009602916a403fdd03f219af3b00d8df58e48329c1c4d8f",
+          "chars": 83069,
+          "excerpt": "and the chips slowly being put in and on the assembly line getting on a plane and da da da da da da da and it brings us now back into the story."
+        },
+        {
+          "source_path": "articles/❸ 专栏01 Essays｜正式随笔/190805 Peter Thiel’s Religion.md",
+          "title": "190805 Peter Thiel’s Religion",
+          "url": "https://i0.wp.com/perell.com/wp-content/uploads/2019/08/IMG_DB41477003EB-2.jpeg?w=750&quality=89&ssl=1",
+          "date": "2019-08-05",
+          "sha256": "afa9050353839e679569c8f8480554002f3891dce6a790032354a538c8c2db21",
+          "chars": 77517,
+          "excerpt": "They ranked themselves not by absolute progress towards a transcendent end goal, but by progress within their peer group."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "ideas": {
+      "matching_sources": 466,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录03 内容创业与商业/210205 Building an Idea Factory with Ali Abdaal.md",
+          "title": "210205 Building an Idea Factory with Ali Abdaal",
+          "url": "https://www.youtube.com/watch?v=oWhbD8fBw24",
+          "date": "2021-02-05",
+          "sha256": "7329afac9e6cc5979f09b9ae9f4678e7e8b84ea9ae88273f4867d9fb3fcb11cd",
+          "chars": 81868,
+          "excerpt": "I was really worried about this idea of of originality, but what I've kind of come to realize is that as long as if I've if I've taken an idea from somewhere, as long as I can apply a personal story or personal anecdote from my own life, even that that lens with which I view the idea changes it into something original."
+        },
+        {
+          "source_path": "articles/❸ 专栏01 Essays｜正式随笔/220826 The Ultimate Guide to Writing Online.md",
+          "title": "220826 The Ultimate Guide to Writing Online",
+          "url": "https://perell.com/podcast/tyler-cowen-production-function",
+          "date": "2022-08-26",
+          "sha256": "1c10f6cc349298bb1a1c2cff52f8c5e1e043e153179b33190af8e5ad7dd2fde3",
+          "chars": 74468,
+          "excerpt": "If an idea consistently surprises somebody, it’s probably good, but if people look bored or confused when you’re sharing an idea, you should either drop it or communicate the idea differently."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 写作方法与系统/210212 How to Write Online Workshop.md",
+          "title": "210212 How to Write Online Workshop",
+          "url": "https://www.youtube.com/watch?v=1MNS21b6O_s",
+          "date": "2021-02-12",
+          "sha256": "3561896b3c1e515952228319997b1b38570f428d3887f54e1195b5117db7bf05",
+          "chars": 64138,
+          "excerpt": "What an unbelievable idea, that rather than consuming once and relying on your memory, which is fragile, to just save ideas."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "thinking": {
+      "matching_sources": 492,
+      "evidence": [
+        {
+          "source_path": "articles/❸ 专栏05 How I Write｜写作访谈/250521 60 Years of Lessons from 7x Oscar Nominee — Eric Roth.md",
+          "title": "250521 60 Years of Lessons from 7x Oscar Nominee — Eric Roth",
+          "url": "",
+          "date": "2025-05-21",
+          "sha256": "e306bc77ddda5c9dcd059437edbc3691a06015fdd80e5bbe18bcb8709c5b71ce",
+          "chars": 160424,
+          "excerpt": "I think certain things, like, I think _Forrest Gump_ survived and continues because I think parents show it to their 11-year-olds."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 写作方法与系统/231106 How to Write Insanely Well (Morgan Housel Interview).md",
+          "title": "231106 How to Write Insanely Well (Morgan Housel Interview)",
+          "url": "https://www.youtube.com/watch?v=o84GXnrHdgg",
+          "date": "2023-11-06",
+          "sha256": "94378b5e03776b96af65a27d068c181e7f0bf2533a2b3213cb94609d599cb7a7",
+          "chars": 143759,
+          "excerpt": "I think that I like the thing that you get in a phrase more than a sentence is it's it's less complete But I think it's a little bit more catchy and there's more alliteration and like playing with the words and I think that that I think it can be, yeah, it's slightly different, and I'm trying to figure out what that speaks to, that I like one liners so much."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 写作方法与系统/230928 The Secret to Writing with Emotion, Without Oversharing — Ava Huang.md",
+          "title": "230928 The Secret to Writing with Emotion, Without Oversharing — Ava Huang",
+          "url": "https://www.youtube.com/watch?v=JvQTAav7Heg",
+          "date": "2023-09-28",
+          "sha256": "cdb17bee569fd6bb2471c04927239fcbe027d30c07539891e3cb1f0d4d8f8efa",
+          "chars": 80918,
+          "excerpt": "I don't think it's domain specific, though I think seeing things in your own  domain helps a lot for just like kind of thinking about craft and thinking about I don't know, kind  of thinking about how like certain paragraphs are structured, um, or how someone like, uh,  let's say you're trying to write a chapter and you're like, how should this chapter feel?"
+        }
+      ],
+      "status": "source_supported"
+    },
+    "writing": {
+      "matching_sources": 482,
+      "evidence": [
+        {
+          "source_path": "articles/❸ 专栏05 How I Write｜写作访谈/250305 Dana Gioia Interview- Poetry, Novels, Inspiration, Building a Writing Career.md",
+          "title": "250305 Dana Gioia Interview- Poetry, Novels, Inspiration, Building a Writing Career",
+          "url": "https://readwise.io/davidperell/),",
+          "date": "2025-03-05",
+          "sha256": "48a6e992feea1f00f017d3361c1f82dd13eab996b37b427509dc4fc5497b9ca9",
+          "chars": 156390,
+          "excerpt": "When I'm writing literary writing or artistic writing, writing the piece, writing the poem, is for me a way of figuring out what the heck it is I want to say."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 写作方法与系统/231106 How to Write Insanely Well (Morgan Housel Interview).md",
+          "title": "231106 How to Write Insanely Well (Morgan Housel Interview)",
+          "url": "https://www.youtube.com/watch?v=o84GXnrHdgg",
+          "date": "2023-11-06",
+          "sha256": "94378b5e03776b96af65a27d068c181e7f0bf2533a2b3213cb94609d599cb7a7",
+          "chars": 143759,
+          "excerpt": "So even those people who are like, oh, they write books and they write online It's actually like what they're writing online is kind of very similar to what they would write in the book It's just online you get one chapter and a book is ten of them and so I'm trying to think of people who have you know, who can write really good 400 word blog posts and And a great 75, 000 word book in a long form book format."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 写作方法与系统/250409 A New Way to Teach Writing — Meet Michael Dean.md",
+          "title": "250409 A New Way to Teach Writing — Meet Michael Dean",
+          "url": "https://www.youtube.com/watch?v=t1elm49zcQg",
+          "date": "2025-04-09",
+          "sha256": "3d52091263dcac5c1ca71a9154943683b8bb983b4b94558e93c6c765ff49ac18",
+          "chars": 114686,
+          "excerpt": "So, you have the lyrical essay, the personal essay, the historical essay, the narrative journalism essay."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "editing": {
+      "matching_sources": 268,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 写作方法与系统/240327 The FBI Called This Writer About Seduction Training — Neil Strauss.md",
+          "title": "240327 The FBI Called This Writer About Seduction Training — Neil Strauss",
+          "url": "https://www.youtube.com/watch?v=-Rr9jgdcmz8",
+          "date": "2024-03-27",
+          "sha256": "d0034dbdca515db932ebb4e3f287049e40ba62477a2dd77594acf06b1fad1b26",
+          "chars": 85841,
+          "excerpt": "And I remember, sometimes I'm editing, my editor, I had an editor say, \"This is just all  listener stuff."
+        },
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 写作方法与系统/230913 WIRED Founding Editor Answers My Writing Questions — Kevin Kelly.md",
+          "title": "230913 WIRED Founding Editor Answers My Writing Questions — Kevin Kelly",
+          "url": "https://www.youtube.com/watch?v=14pW1PdGrRo",
+          "date": "2023-09-13",
+          "sha256": "4fd712009e4a7e7b59a1fb4c573051afea7c71a9eaf0fe203571b7b2bdd901fd",
+          "chars": 67912,
+          "excerpt": "Uh, the editing, the editing process, I just kind of go back and forth the  entire way."
+        },
+        {
+          "source_path": "articles/❸ 专栏05 How I Write｜写作访谈/260711 David Shelley- How to Get Your Book Published.md",
+          "title": "260711 David Shelley- How to Get Your Book Published",
+          "url": "https://www.youtube-nocookie.com/embed/xP2C8Z21hKM?rel=0&autoplay=0&showinfo=0&enablejsapi=0",
+          "date": "2026-07-11",
+          "sha256": "bb361d2290949d5136a62dd6b8939c20005f99dad6be948f477eddd08c1c2ae3",
+          "chars": 66200,
+          "excerpt": "If Sally and a Little Brown editor were interested in your book, and you have five other houses interested, it would be crucial to meet with the editor and Sally, or at least the editor."
+        }
+      ],
+      "status": "source_supported"
+    },
+    "publishing": {
+      "matching_sources": 340,
+      "evidence": [
+        {
+          "source_path": "youtube_transcript/❶ 视频转录01 写作方法与系统/260708 Watch This Before Publishing Your Book (Hachette CEO Interview).md",
+          "title": "260708 Watch This Before Publishing Your Book (Hachette CEO Interview)",
+          "url": "https://www.youtube.com/watch?v=xP2C8Z21hKM",
+          "date": "2026-07-08",
+          "sha256": "73e8288c594db56bf04d5536df544ba30ededd4fdccad65091b17671fbcf1a37",
+          "chars": 85354,
+          "excerpt": "There are a lot of smaller publishers now cuz digital publishing has lowered the barriers to entry."
+        },
+        {
+          "source_path": "articles/❸ 专栏05 How I Write｜写作访谈/260711 David Shelley- How to Get Your Book Published.md",
+          "title": "260711 David Shelley- How to Get Your Book Published",
+          "url": "https://www.youtube-nocookie.com/embed/xP2C8Z21hKM?rel=0&autoplay=0&showinfo=0&enablejsapi=0",
+          "date": "2026-07-11",
+          "sha256": "bb361d2290949d5136a62dd6b8939c20005f99dad6be948f477eddd08c1c2ae3",
+          "chars": 66200,
+          "excerpt": "_54 What publishers actually do\n56 How to get your book published\n00 What literary agents do\n22 How to deal with disagreement\n46 Making money vs making art\n39 Does marketing actually matter\n23 Choose the right editor\n10 Should you market your own book\n12 The biggest money trap\n52 How bookstores came back\n34 Why moral sense matters\n46 Mystery and thriller rules\n35 Why horror is having a comeback\n56 Kids books sell forever\n39 US, UK, and French markets\n20 Paperbacks, ebooks and audiobooks\n15 Gen Z’s return to physical books\n24 Most books lose money\n59 Why should you publish with Hachette_"
+        },
+        {
+          "source_path": "articles/❸ 专栏05 How I Write｜写作访谈/260318 Jon Yaged- How to Get Your Book Published.md",
+          "title": "260318 Jon Yaged- How to Get Your Book Published",
+          "url": "https://mercury.com/).",
+          "date": "2026-03-18",
+          "sha256": "a57e3a308a163fe426597d414254cac7fb4c4e8565ee14889d627ca1df8823f0",
+          "chars": 85229,
+          "excerpt": "Jon Yaged runs Macmillan, one of the five biggest publishers in the world, so I asked him to explain the book publishing industry to me."
+        }
+      ],
+      "status": "source_supported"
+    }
+  },
+  "policy": "One source per video ID/article URL; complete Chinese preferred, English fallback; speakers require verification.",
+  "gaps": [
+    "Automatic topic matches are a navigation aid, not proof of a doctrine.",
+    "Interview speaker attribution must be verified before quoting a named person.",
+    "Initial library contains bounded source excerpts, not AI-distilled conclusions."
+  ]
+}
